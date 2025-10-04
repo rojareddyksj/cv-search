@@ -1,0 +1,63 @@
+**Pierre Dubois**  
+[Location] | [Phone Number] | [Email Address] | [LinkedIn Profile] | [GitHub Profile]  
+
+---
+
+**Personal Summary**  
+Results-driven software professional with 5 years of experience designing and implementing scalable, user-centric applications. Proficient in React Native, JavaScript, TypeScript, Expo, and Redux, with a strong focus on delivering high-performance solutions. Adept at collaborating with cross-functional teams to translate business requirements into technical specifications. Passionate about clean code, efficient workflows, and continuous learning.  
+
+---
+
+**Work Experience**  
+
+**Senior Software Engineer**  
+*TechInnovate Solutions, Paris, France*  
+*October 2021 – Present*  
+- Architected and delivered cross-platform applications using React Native and Expo, reducing development time by 30%.  
+- Implemented state management solutions with Redux, improving application performance and maintainability.  
+- Led a team of 4 engineers to refactor legacy codebases, enhancing code quality and reducing bugs by 25%.  
+- Integrated third-party APIs and services to expand application functionality, ensuring seamless user experiences.  
+
+**Software Engineer**  
+*DigitalCraft Studios, Lyon, France*  
+*June 2018 – September 2021*  
+- Developed and maintained applications using JavaScript and TypeScript, ensuring compatibility across platforms.  
+- Collaborated with designers and product managers to implement responsive UIs, increasing user engagement by 15%.  
+- Optimized application performance through code splitting and lazy loading techniques.  
+- Conducted code reviews and mentored junior team members to uphold coding standards.  
+
+**Junior Software Engineer**  
+*CodeSphere Technologies, Toulouse, France*  
+*January 2017 – May 2018*  
+- Built and deployed applications using React Native, focusing on delivering intuitive user interfaces.  
+- Assisted in debugging and troubleshooting production issues, ensuring minimal downtime.  
+- Participated in agile ceremonies, contributing to sprint planning and retrospectives.  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of Toulouse, France*  
+*September 2013 – June 2016*  
+
+---
+
+**Technical Skills**  
+- **Languages:** JavaScript, TypeScript  
+- **Frameworks/Libraries:** React Native, Redux  
+- **Tools:** Expo, Git, npm, Yarn  
+- **Concepts:** State Management, Cross-Platform Development, RESTful APIs  
+
+---
+
+**Projects**  
+**TaskFlow Pro**  
+- Built a task management application using React Native and Redux, featuring real-time synchronization and offline capabilities.  
+- Integrated Firebase for backend services, enabling user authentication and data persistence.  
+
+**EcoTrack**  
+- Developed an environmental tracking app with Expo, allowing users to monitor carbon footprints and set sustainability goals.  
+- Implemented charts and analytics using third-party libraries, enhancing user engagement.  
+
+---  
+References available upon request.

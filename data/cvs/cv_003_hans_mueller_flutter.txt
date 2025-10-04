@@ -1,0 +1,64 @@
+**Hans Mueller**  
+[Address] | [City, ZIP Code] | [Email] | [Phone] | [LinkedIn] | [GitHub]  
+
+---
+
+**Personal Summary**  
+Results-driven software professional with 10+ years of experience designing, developing, and deploying scalable cross-platform applications. Proficient in Flutter, Dart, Firebase, Provider, and Bloc, with a proven track record of delivering high-quality solutions that enhance user experiences and drive business growth. Adept at collaborating with cross-functional teams to solve complex problems and optimize workflows.  
+
+---
+
+**Work Experience**  
+
+**Senior Software Engineer**  
+*TechInnovate Solutions, Berlin, Germany*  
+*Jan 2020 – Present*  
+- Led a team of 5 engineers to build and maintain a cross-platform e-commerce application, increasing user engagement by 30%.  
+- Implemented state management using Bloc and Provider, improving application performance and reducing bugs by 25%.  
+- Integrated Firebase for authentication, real-time database, and cloud functions, enhancing app reliability and scalability.  
+- Conducted code reviews and mentored junior team members, ensuring adherence to best practices and high code quality.  
+
+**Software Engineer**  
+*DigitalCraft GmbH, Munich, Germany*  
+*June 2015 – Dec 2019*  
+- Developed a Flutter-based productivity tool used by 50,000+ users, achieving a 4.8/5 rating on app stores.  
+- Optimized app performance by refactoring legacy code and implementing efficient state management with Provider.  
+- Collaborated with designers and product managers to translate UI/UX designs into functional, responsive applications.  
+- Implemented CI/CD pipelines, reducing deployment time by 40%.  
+
+**Junior Software Engineer**  
+*CodeSphere Technologies, Hamburg, Germany*  
+*Aug 2013 – May 2015*  
+- Contributed to the development of a cross-platform healthcare application, focusing on data synchronization and user interfaces.  
+- Assisted in integrating Firebase for real-time data updates, improving app responsiveness.  
+- Participated in agile sprints, delivering features on time and within scope.  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*Technical University of Munich, Germany*  
+*Sept 2009 – July 2013*  
+
+---
+
+**Technical Skills**  
+- **Frameworks/Languages:** Flutter, Dart  
+- **State Management:** Provider, Bloc  
+- **Backend Services:** Firebase (Authentication, Firestore, Cloud Functions)  
+- **Tools:** Git, CI/CD, Jira, Postman  
+- **Other:** REST APIs, Agile/Scrum, UI/UX Design Principles  
+
+---
+
+**Projects**  
+**TaskMaster Pro**  
+- Built a cross-platform task management app using Flutter, Bloc, and Firebase, featuring real-time collaboration and offline support.  
+- Achieved 10,000+ downloads within 6 months of launch.  
+
+**FitTrack**  
+- Developed a health and fitness tracker with Dart and Firebase, integrating third-party APIs for nutrition and activity data.  
+- Implemented a customizable dashboard using Provider for dynamic state updates.  
+
+---  
+References available upon request.

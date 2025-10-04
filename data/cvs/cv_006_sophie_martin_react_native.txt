@@ -1,0 +1,64 @@
+**Sophie Martin**  
+[Your Address] | [Your City, State, ZIP] | [Your Email] | [Your Phone Number] | [LinkedIn Profile] | [GitHub Profile]  
+
+---
+
+**Personal Summary**  
+Results-driven software professional with 3 years of experience designing and implementing scalable, user-centric applications. Proficient in React Native, JavaScript, TypeScript, Expo, and Redux, with a strong focus on delivering high-quality solutions that enhance user experiences. Adept at collaborating with cross-functional teams to achieve project goals and drive innovation.  
+
+---
+
+**Work Experience**  
+
+**Software Engineer**  
+*TechInnovate Solutions, New York, NY*  
+*June 2022 – Present*  
+- Designed and implemented cross-platform applications using React Native and Expo, improving app performance by 25%.  
+- Integrated Redux for state management, reducing bugs and enhancing application stability.  
+- Collaborated with UI/UX designers to translate wireframes into responsive, accessible interfaces.  
+- Conducted code reviews and mentored junior team members to ensure best practices and code quality.  
+
+**Junior Software Engineer**  
+*CodeCraft Studios, Boston, MA*  
+*January 2021 – May 2022*  
+- Developed and maintained features for a consumer-facing application using JavaScript and TypeScript.  
+- Optimized application performance, resulting in a 15% decrease in load times.  
+- Implemented automated testing frameworks to ensure code reliability and reduce manual testing efforts.  
+- Participated in agile sprints, contributing to timely delivery of project milestones.  
+
+**Software Engineering Intern**  
+*NexaTech, Boston, MA*  
+*May 2020 – August 2020*  
+- Assisted in building a prototype application using React Native, contributing to the project’s successful demo.  
+- Learned and applied Redux for state management under senior engineer guidance.  
+- Documented technical processes and contributed to team knowledge-sharing initiatives.  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of Massachusetts, Amherst, MA*  
+*September 2016 – May 2020*  
+- Relevant Coursework: Data Structures, Algorithms, Software Engineering, Human-Computer Interaction  
+
+---
+
+**Technical Skills**  
+- **Languages:** JavaScript, TypeScript  
+- **Frameworks/Libraries:** React Native, Redux  
+- **Tools:** Expo, Git, Jira, Postman  
+- **Concepts:** State Management, Responsive Design, RESTful APIs  
+
+---
+
+**Projects**  
+**TaskFlow**  
+- Built a task management application using React Native and Redux, featuring real-time updates and user authentication.  
+- Utilized Expo for cross-platform deployment, achieving over 500 downloads.  
+
+**E-Commerce Dashboard**  
+- Developed an admin dashboard for an e-commerce platform using TypeScript and React Native.  
+- Integrated RESTful APIs to fetch and display product data, improving inventory management efficiency.  
+
+---  
+References available upon request.

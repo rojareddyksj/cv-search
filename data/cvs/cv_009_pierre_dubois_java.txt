@@ -1,0 +1,67 @@
+**Pierre Dubois**  
+[Address] | [City, ZIP Code] | [Email] | [Phone Number] | [LinkedIn Profile] | [GitHub Profile]  
+
+---
+
+### **Personal Summary**  
+Results-driven software engineer with 7 years of experience designing, developing, and deploying scalable, high-performance applications. Proficient in Java, Spring Boot, and microservices architecture, with a strong focus on delivering robust solutions that meet business objectives. Adept at collaborating with cross-functional teams to drive innovation and improve system efficiency. Passionate about clean code, continuous integration, and delivering value through technology.
+
+---
+
+### **Work Experience**  
+
+**Senior Software Engineer**  
+*TechInnovate Solutions, Paris, France*  
+*January 2021 – Present*  
+- Designed and implemented microservices-based architecture for a cloud-native e-commerce platform, improving system scalability by 40%.  
+- Led the migration of legacy monolithic applications to Spring Boot, reducing deployment time by 30%.  
+- Optimized database queries using Hibernate and MySQL, enhancing application performance by 25%.  
+- Mentored junior engineers and conducted code reviews to ensure adherence to best practices.  
+
+**Software Engineer**  
+*Nexa Systems, Lyon, France*  
+*June 2017 – December 2020*  
+- Developed RESTful APIs using Spring Boot to support a financial management application, achieving 99.9% uptime.  
+- Implemented CI/CD pipelines using Jenkins, reducing release cycles from 2 weeks to 3 days.  
+- Collaborated with product managers to translate business requirements into technical specifications.  
+- Conducted performance tuning and troubleshooting to resolve critical production issues.  
+
+**Junior Software Engineer**  
+*CodeCrafters, Toulouse, France*  
+*September 2016 – May 2017*  
+- Contributed to the development of a customer relationship management (CRM) tool using Java and MySQL.  
+- Assisted in refactoring legacy code to improve maintainability and reduce technical debt.  
+- Participated in agile ceremonies, including sprint planning, daily stand-ups, and retrospectives.  
+
+---
+
+### **Education**  
+**Master of Science in Computer Science**  
+*University of Toulouse, France*  
+*2014 – 2016*  
+
+**Bachelor of Science in Software Engineering**  
+*University of Lyon, France*  
+*2011 – 2014*  
+
+---
+
+### **Technical Skills**  
+- **Programming Languages:** Java (Expert), SQL (Proficient)  
+- **Frameworks/Tools:** Spring Boot, Hibernate, Microservices, RESTful APIs, Maven, Git  
+- **Databases:** MySQL, PostgreSQL  
+- **DevOps:** Docker, Kubernetes, Jenkins, CI/CD  
+- **Methodologies:** Agile, Scrum, Test-Driven Development (TDD)  
+
+---
+
+### **Projects**  
+**E-Commerce Platform Optimization**  
+- Led the redesign of a high-traffic e-commerce platform using microservices, improving response times by 50%.  
+**Financial API Development**  
+- Built a secure API for financial transactions, ensuring compliance with GDPR and PCI DSS standards.  
+**Open-Source Contribution**  
+- Contributed to a Spring Boot starter project on GitHub, adding features for enhanced logging and monitoring.  
+
+---  
+References available upon request.

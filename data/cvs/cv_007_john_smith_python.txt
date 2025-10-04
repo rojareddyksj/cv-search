@@ -1,0 +1,64 @@
+**John Smith**  
+[Your Address] | [City, State, ZIP] | [Email Address] | [Phone Number] | [LinkedIn Profile] | [GitHub Profile]  
+
+---
+
+**Personal Summary**  
+Results-driven software engineer with 4 years of experience designing, developing, and maintaining scalable web applications. Proficient in Python, Django, Flask, and PostgreSQL, with a strong focus on building robust REST APIs. Adept at collaborating with cross-functional teams to deliver high-quality solutions that meet business objectives. Passionate about writing clean, efficient code and continuously improving technical skills.
+
+---
+
+**Work Experience**  
+
+**Software Engineer**  
+*TechInnovate Solutions, New York, NY*  
+*January 2022 – Present*  
+- Designed and implemented RESTful APIs using Django and Flask, improving system response times by 25%.  
+- Optimized database queries in PostgreSQL, reducing data retrieval latency by 30%.  
+- Collaborated with product managers to translate business requirements into technical specifications.  
+- Mentored junior team members, enhancing team productivity and code quality.  
+
+**Junior Software Engineer**  
+*CodeStream Technologies, Boston, MA*  
+*June 2019 – December 2021*  
+- Developed and maintained backend systems using Python and Django, supporting over 10,000 daily active users.  
+- Integrated third-party APIs to enhance application functionality and user experience.  
+- Conducted code reviews and contributed to the adoption of best practices in version control and testing.  
+- Participated in agile sprints, ensuring timely delivery of features and bug fixes.  
+
+**Intern, Software Engineering**  
+*WebCraft Solutions, Boston, MA*  
+*May 2018 – August 2018*  
+- Assisted in building a Flask-based web application for internal project management.  
+- Implemented unit tests to ensure code reliability and maintainability.  
+- Learned and applied best practices in software development and collaboration.  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of Massachusetts, Amherst, MA*  
+*September 2015 – May 2019*  
+- Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development  
+
+---
+
+**Technical Skills**  
+- **Programming Languages:** Python (Advanced), SQL (Proficient)  
+- **Frameworks:** Django (Advanced), Flask (Proficient)  
+- **Databases:** PostgreSQL (Advanced), SQLite (Intermediate)  
+- **Tools & Technologies:** Git, Docker, REST API Design, Postman, Linux  
+
+---
+
+**Projects**  
+**TaskMaster Pro**  
+- Built a task management web application using Django and PostgreSQL, featuring user authentication and task prioritization.  
+- Implemented a REST API to enable integration with third-party productivity tools.  
+
+**BudgetTracker**  
+- Developed a personal finance tracker using Flask and SQLite, allowing users to monitor expenses and generate reports.  
+- Deployed the application on Heroku, ensuring scalability and reliability.  
+
+---  
+References available upon request.

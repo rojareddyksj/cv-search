@@ -1,0 +1,65 @@
+**Carlos Rodriguez**  
+[Your Address] | [Your City, State, ZIP] | [Your Email] | [Your Phone Number] | [LinkedIn Profile] | [GitHub Profile]  
+
+---
+
+**Personal Summary**  
+Results-driven software engineer with 3 years of experience designing, developing, and maintaining scalable applications. Proficient in Kotlin, Java, and modern Android frameworks, with a strong focus on delivering high-quality, user-centric solutions. Adept at collaborating with cross-functional teams to solve complex problems and improve system efficiency. Passionate about leveraging cutting-edge technologies to create impactful products.
+
+---
+
+**Work Experience**  
+
+**Software Engineer**  
+*TechInnovate Solutions, San Francisco, CA*  
+*July 2022 – Present*  
+- Designed and implemented features for a high-traffic Android application using Kotlin, Jetpack Compose, and Room, improving user engagement by 25%.  
+- Optimized database operations with Room, reducing query times by 30%.  
+- Collaborated with UX designers to implement responsive UI components using Jetpack Compose.  
+- Conducted code reviews and mentored junior team members to ensure code quality and adherence to best practices.  
+
+**Associate Software Engineer**  
+*NexaSoft Systems, Austin, TX*  
+*June 2020 – June 2022*  
+- Developed and maintained Android applications using Java and Android Studio, contributing to a 15% increase in app performance.  
+- Integrated third-party APIs to enhance app functionality and user experience.  
+- Implemented unit and UI tests to ensure application stability and reliability.  
+- Participated in agile ceremonies, including sprint planning, stand-ups, and retrospectives.  
+
+**Software Engineering Intern**  
+*GlobalTech Corp, Seattle, WA*  
+*January 2020 – May 2020*  
+- Assisted in the development of Android applications using Kotlin, focusing on UI/UX improvements.  
+- Debugged and resolved critical issues, improving app stability by 20%.  
+- Documented technical processes and contributed to the company’s knowledge base.  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of California, Berkeley*  
+*August 2016 – May 2020*  
+- Relevant Coursework: Data Structures, Algorithms, Software Engineering, Human-Computer Interaction  
+
+---
+
+**Technical Skills**  
+- **Programming Languages:** Kotlin, Java  
+- **Frameworks/Tools:** Jetpack Compose, Room, Android Studio, Git  
+- **Databases:** SQLite, Firebase  
+- **Testing:** JUnit, Espresso  
+- **Other:** RESTful APIs, Agile Methodologies  
+
+---
+
+**Projects**  
+**TaskMaster Pro**  
+- Built a task management Android application using Kotlin, Jetpack Compose, and Room, featuring offline capabilities and synchronized cloud storage.  
+- Implemented a customizable UI with dynamic themes and animations.  
+
+**ExpenseTracker**  
+- Developed an expense-tracking app using Java and SQLite, allowing users to categorize and visualize spending habits.  
+- Integrated charts and graphs for better financial insights.  
+
+---  
+References available upon request.

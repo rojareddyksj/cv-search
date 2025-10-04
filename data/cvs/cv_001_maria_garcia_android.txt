@@ -1,0 +1,65 @@
+**Maria Garcia**  
+[Your Address] | [Your City, State, ZIP] | [Your Email] | [Your Phone Number] | [LinkedIn Profile] | [GitHub Profile]  
+
+---
+
+**Personal Summary**  
+Results-driven software engineer with 10 years of experience designing, developing, and maintaining scalable applications. Proficient in Kotlin, Java, and modern Android frameworks, with a strong focus on delivering high-quality, user-centric solutions. Adept at collaborating with cross-functional teams to drive innovation and improve system efficiency. Passionate about leveraging Jetpack Compose and Room to build robust, maintainable software.  
+
+---
+
+**Work Experience**  
+
+**Senior Software Engineer**  
+*TechInnovate Solutions, San Francisco, CA*  
+*January 2020 – Present*  
+- Led the migration of legacy Java-based applications to Kotlin, improving code readability and reducing bugs by 25%.  
+- Architected and implemented a modular system using Jetpack Compose, enhancing UI consistency and development speed.  
+- Integrated Room database to optimize data persistence, resulting in a 30% improvement in app performance.  
+- Mentored junior engineers, fostering a culture of knowledge sharing and continuous improvement.  
+
+**Software Engineer**  
+*Nexa Systems, Austin, TX*  
+*June 2015 – December 2019*  
+- Designed and developed core features for high-traffic applications, ensuring seamless user experiences.  
+- Implemented CI/CD pipelines using Jenkins, reducing deployment time by 40%.  
+- Collaborated with product managers to translate requirements into technical specifications, delivering projects on time and within scope.  
+- Conducted code reviews and refactoring sessions to maintain high code quality standards.  
+
+**Associate Software Engineer**  
+*CodeCraft Technologies, Seattle, WA*  
+*July 2013 – May 2015*  
+- Developed and maintained applications using Java and Android Studio, adhering to best practices.  
+- Troubleshot and resolved complex issues, improving app stability and user satisfaction.  
+- Participated in agile ceremonies, contributing to sprint planning, stand-ups, and retrospectives.  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of California, Berkeley*  
+*Graduated: May 2013*  
+
+---
+
+**Technical Skills**  
+- **Programming Languages:** Kotlin, Java  
+- **Frameworks/Tools:** Jetpack Compose, Room, Android Studio, Retrofit, Dagger  
+- **Version Control:** Git, GitHub  
+- **CI/CD:** Jenkins, GitHub Actions  
+- **Databases:** SQLite, Firebase  
+- **Methodologies:** Agile, Scrum  
+
+---
+
+**Projects**  
+**TaskMaster Pro**  
+- Built a task management application using Kotlin, Jetpack Compose, and Room, featuring offline-first functionality and synchronized cloud storage.  
+- Implemented a customizable UI with dynamic themes, improving user engagement by 20%.  
+
+**FitTrack**  
+- Developed a fitness tracking app with real-time data visualization using Jetpack Compose and Firebase integration.  
+- Incorporated machine learning models to provide personalized workout recommendations, increasing user retention by 15%.  
+
+---  
+References available upon request.

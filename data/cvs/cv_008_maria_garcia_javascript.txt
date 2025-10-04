@@ -1,0 +1,66 @@
+**Maria Garcia**  
+[Your Address] | [Your City, State, ZIP] | [Your Email] | [Your Phone] | [LinkedIn Profile] | [GitHub Profile]  
+
+---
+
+**Personal Summary**  
+Results-driven software professional with 6 years of experience designing, developing, and deploying scalable web applications. Proficient in JavaScript, Node.js, Express, MongoDB, and React, with a strong focus on creating efficient, user-centric solutions. Proven ability to collaborate in cross-functional teams, troubleshoot complex issues, and deliver high-quality projects on time. Passionate about leveraging technology to solve real-world problems and drive business growth.
+
+---
+
+**Work Experience**  
+
+**Senior Software Engineer**  
+*TechInnovate Solutions, New York, NY*  
+*January 2021 – Present*  
+- Led the development of a RESTful API using Node.js and Express, improving system performance by 30%.  
+- Designed and implemented a React-based frontend for a SaaS platform, enhancing user engagement by 25%.  
+- Managed a MongoDB database, optimizing queries and reducing latency by 40%.  
+- Mentored junior team members, fostering a collaborative and productive work environment.  
+
+**Software Engineer**  
+*WebScale Systems, Austin, TX*  
+*June 2017 – December 2020*  
+- Developed and maintained full-stack applications using JavaScript, React, and Node.js.  
+- Integrated third-party APIs to enhance application functionality and user experience.  
+- Implemented automated testing and continuous integration pipelines, reducing deployment errors by 20%.  
+- Collaborated with product managers to translate business requirements into technical specifications.  
+
+**Junior Software Engineer**  
+*CodeCrafters Inc., Miami, FL*  
+*July 2016 – May 2017*  
+- Assisted in building and deploying web applications using JavaScript and React.  
+- Conducted code reviews and contributed to team knowledge-sharing sessions.  
+- Troubleshot and resolved bugs, improving application stability and performance.  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of Florida, Gainesville, FL*  
+*Graduated: May 2016*  
+
+---
+
+**Technical Skills**  
+- **Programming Languages:** JavaScript (ES6+), HTML5, CSS3  
+- **Frameworks/Libraries:** Node.js, Express, React, Redux  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, Docker, Jenkins, Postman  
+- **Other:** RESTful APIs, Agile/Scrum, Test-Driven Development (TDD)  
+
+---
+
+**Projects**  
+**E-Commerce Platform**  
+- Built a full-stack e-commerce platform using React for the frontend, Node.js/Express for the backend, and MongoDB for data storage.  
+- Implemented user authentication, product search, and shopping cart functionality.  
+- Deployed on AWS, achieving 99.9% uptime.  
+
+**Task Management Application**  
+- Developed a task management tool with React and Node.js, allowing users to create, assign, and track tasks.  
+- Integrated real-time updates using WebSockets.  
+- Open-sourced on GitHub, garnering 500+ stars.  
+
+---  
+References available upon request.

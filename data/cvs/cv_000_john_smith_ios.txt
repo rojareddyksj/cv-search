@@ -1,0 +1,61 @@
+**John Smith**  
+[Address] | [Phone Number] | [Email] | [LinkedIn] | [GitHub]  
+
+---
+
+**Personal Summary**  
+Results-driven software engineer with 8 years of experience designing, developing, and maintaining high-performance applications. Proficient in Swift, SwiftUI, and UIKit, with a strong focus on creating intuitive user interfaces and efficient data management systems. Adept at collaborating with cross-functional teams to deliver scalable solutions that meet business objectives. Passionate about leveraging technology to solve complex problems and enhance user experiences.
+
+---
+
+**Work Experience**  
+
+**Senior Software Engineer**  
+*TechInnovate Solutions, San Francisco, CA*  
+*January 2021 – Present*  
+- Architected and implemented a modular SwiftUI-based framework, reducing UI development time by 30%.  
+- Integrated Core Data with cloud synchronization, improving data persistence and reliability across platforms.  
+- Led a team of 5 engineers to deliver a feature-rich application, achieving a 4.8/5 App Store rating.  
+- Conducted code reviews and mentored junior engineers to ensure adherence to best practices.  
+
+**Software Engineer**  
+*Nexa Systems, Austin, TX*  
+*June 2017 – December 2020*  
+- Developed and shipped multiple applications using UIKit, focusing on performance optimization and accessibility.  
+- Implemented a custom Core Data stack to manage complex relational data, enhancing app responsiveness by 25%.  
+- Collaborated with designers to translate wireframes into seamless user experiences.  
+- Automated CI/CD pipelines using Xcode Server, reducing deployment time by 40%.  
+
+**Junior Software Engineer**  
+*CodeCraft Studios, Seattle, WA*  
+*July 2015 – May 2017*  
+- Built and maintained applications using Swift, ensuring compatibility across iOS versions.  
+- Troubleshot and resolved critical bugs, improving app stability and user retention.  
+- Contributed to the development of internal tools to streamline workflow and increase team productivity.  
+
+---
+
+**Education**  
+**Bachelor of Science in Computer Science**  
+*University of Washington, Seattle, WA*  
+*Graduated: June 2015*  
+
+---
+
+**Technical Skills**  
+- **Programming Languages:** Swift, Objective-C  
+- **Frameworks:** SwiftUI, UIKit, Core Data  
+- **Tools:** Xcode, Git, JIRA, CI/CD Pipelines  
+- **Concepts:** MVVM, MVC, Test-Driven Development, RESTful APIs  
+
+---
+
+**Projects**  
+**TaskFlow**  
+- Designed and developed a task management application using SwiftUI and Core Data, featuring offline-first functionality and iCloud synchronization.  
+**WeatherWise**  
+- Created a weather forecasting app with a custom UIKit interface, integrating a third-party API for real-time data.  
+**Open Source Contributions**  
+- Contributed to SwiftUI-based libraries on GitHub, focusing on reusable components and animations.  
+
+---
