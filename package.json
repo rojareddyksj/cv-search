@@ -10,12 +10,20 @@
     "generate-test": "tsx scripts/generate-test-cvs.ts",
     "search": "tsx scripts/semantic-search.ts",
     "show-scores": "tsx scripts/show-all-scores.ts",
-    "import-cvs": "tsx scripts/import-existing-cvs.ts"
+    "import-cvs": "tsx scripts/import-existing-cvs.ts",
+    "check-setup": "tsx scripts/check-setup.ts",
+    "generate-cvs-ollama": "tsx scripts/generate-cvs-ollama.ts",
+    "ingest-chromadb": "tsx scripts/ingest-chromadb.ts",
+    "search-chromadb": "tsx scripts/search-chromadb.ts",
+    "demo-comparison": "tsx scripts/demo-comparison.ts"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "chromadb": "^3.0.17",
     "cohere-ai": "^7.19.0",
     "lucide-react": "^0.544.0",
     "next": "15.5.4",
+    "ollama": "^0.6.0",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   },
