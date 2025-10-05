@@ -11,7 +11,8 @@
     "search": "tsx scripts/semantic-search.ts",
     "show-scores": "tsx scripts/show-all-scores.ts",
     "import-cvs": "tsx scripts/import-existing-cvs.ts",
-    "test-jina": "tsx scripts/test-jina.ts"
+    "test-jina": "tsx scripts/test-jina.ts",
+    "ingest-ollama": "tsx scripts/ingest-ollama.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
