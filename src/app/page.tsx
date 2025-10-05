@@ -24,7 +24,7 @@ export default function Home() {
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [cvs, setCvs] = useState<CV[]>([]);
   const [totalCVs, setTotalCVs] = useState(0);
-  const [activeTab, setActiveTab] = useState<'chromadb' | 'gemini' | 'cohere'>('chromadb');
+  const [activeTab, setActiveTab] = useState<'chromadb' | 'gemini' | 'cohere' | 'jina'>('jina');
 
   const handleUpload = async () => {
     if (!cvText || !filename) {
@@ -73,6 +73,8 @@ export default function Home() {
         endpoint = '/api/search'; // Update this to your Gemini endpoint when ready
       } else if (activeTab === 'cohere') {
         endpoint = '/api/search'; // Cohere (original endpoint)
+      } else if (activeTab === 'jina') {
+        endpoint = '/api/search-jina';
       }
 
       const response = await fetch(endpoint, {
@@ -141,6 +143,8 @@ export default function Home() {
       return { name: 'LocalEngine ChromaDB', color: 'from-green-600 to-teal-600' };
     } else if (activeTab === 'gemini') {
       return { name: 'Gemini AI', color: 'from-blue-600 to-indigo-600' };
+    } else if (activeTab === 'jina') {
+      return { name: 'Jina AI', color: 'from-orange-600 to-red-600' };
     } else {
       return { name: 'Cohere AI', color: 'from-purple-600 to-pink-600' };
     }
@@ -212,11 +216,26 @@ export default function Home() {
               <Search className="inline w-4 h-4 mr-2" />
               Cohere
             </button>
+            <button
+              onClick={() => {
+                setActiveTab('jina');
+                setSearchResults([]);
+                fetchCVs();
+              }}
+              className={`px-6 py-3 rounded-md font-medium transition-all ${
+                activeTab === 'jina'
+                  ? 'bg-gradient-to-r from-orange-600 to-red-600 text-white shadow-md'
+                  : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
+              }`}
+            >
+              <Search className="inline w-4 h-4 mr-2" />
+              Jina AI
+            </button>
           </div>
         </div>
 
         {/* Search Interface - shown for all tabs */}
-        {(activeTab === 'chromadb' || activeTab === 'gemini' || activeTab === 'cohere') && (
+        {(activeTab === 'chromadb' || activeTab === 'gemini' || activeTab === 'cohere' || activeTab === 'jina') && (
           <div className="max-w-6xl mx-auto">
             {/* Search Box */}
             <div className="bg-white rounded-2xl shadow-xl p-8 mb-8">

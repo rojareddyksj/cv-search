@@ -10,9 +10,11 @@
     "generate-test": "tsx scripts/generate-test-cvs.ts",
     "search": "tsx scripts/semantic-search.ts",
     "show-scores": "tsx scripts/show-all-scores.ts",
-    "import-cvs": "tsx scripts/import-existing-cvs.ts"
+    "import-cvs": "tsx scripts/import-existing-cvs.ts",
+    "test-jina": "tsx scripts/test-jina.ts"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "cohere-ai": "^7.19.0",
     "lucide-react": "^0.544.0",
     "next": "15.5.4",
@@ -24,6 +26,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "dotenv": "^17.2.3",
     "tailwindcss": "^4",
     "tsx": "^4.20.6",
     "typescript": "^5"
