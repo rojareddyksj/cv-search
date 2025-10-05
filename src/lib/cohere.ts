@@ -56,3 +56,31 @@ export async function searchCVs(query: string, cvs: CV[], topK: number = 5): Pro
 
   return results.slice(0, topK);
 }
+
+export interface RerankResult {
+  index: number;
+  relevanceScore: number;
+}
+
+export async function rerankDocuments(
+  query: string,
+  documents: string[],
+  options?: {
+    topN?: number;
+    model?: string;
+  }
+): Promise<RerankResult[]> {
+  const { topN = 5, model = 'rerank-v3.5' } = options || {};
+
+  const response = await cohere.rerank({
+    query,
+    documents,
+    topN,
+    model,
+  });
+
+  return response.results.map((result) => ({
+    index: result.index,
+    relevanceScore: result.relevanceScore,
+  }));
+}

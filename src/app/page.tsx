@@ -24,7 +24,7 @@ export default function Home() {
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [cvs, setCvs] = useState<CV[]>([]);
   const [totalCVs, setTotalCVs] = useState(0);
-  const [activeTab, setActiveTab] = useState<'chromadb' | 'gemini' | 'cohere' | 'jina'>('jina');
+  const [activeTab, setActiveTab] = useState<'chromadb' | 'gemini' | 'cohere' | 'jina' | 'openai-cohere'>('openai-cohere');
 
   const handleUpload = async () => {
     if (!cvText || !filename) {
@@ -75,6 +75,8 @@ export default function Home() {
         endpoint = '/api/search'; // Cohere (original endpoint)
       } else if (activeTab === 'jina') {
         endpoint = '/api/search-jina';
+      } else if (activeTab === 'openai-cohere') {
+        endpoint = '/api/search-2stage';
       }
 
       const response = await fetch(endpoint, {
@@ -145,6 +147,8 @@ export default function Home() {
       return { name: 'Gemini AI', color: 'from-blue-600 to-indigo-600' };
     } else if (activeTab === 'jina') {
       return { name: 'Jina AI', color: 'from-orange-600 to-red-600' };
+    } else if (activeTab === 'openai-cohere') {
+      return { name: 'OpenAI + Cohere (2-Stage)', color: 'from-cyan-600 to-blue-600' };
     } else {
       return { name: 'Cohere AI', color: 'from-purple-600 to-pink-600' };
     }
@@ -231,11 +235,26 @@ export default function Home() {
               <Search className="inline w-4 h-4 mr-2" />
               Jina AI
             </button>
+            <button
+              onClick={() => {
+                setActiveTab('openai-cohere');
+                setSearchResults([]);
+                fetchCVs();
+              }}
+              className={`px-6 py-3 rounded-md font-medium transition-all ${
+                activeTab === 'openai-cohere'
+                  ? 'bg-gradient-to-r from-cyan-600 to-blue-600 text-white shadow-md'
+                  : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
+              }`}
+            >
+              <Search className="inline w-4 h-4 mr-2" />
+              OpenAI + Cohere
+            </button>
           </div>
         </div>
 
         {/* Search Interface - shown for all tabs */}
-        {(activeTab === 'chromadb' || activeTab === 'gemini' || activeTab === 'cohere' || activeTab === 'jina') && (
+        {(activeTab === 'chromadb' || activeTab === 'gemini' || activeTab === 'cohere' || activeTab === 'jina' || activeTab === 'openai-cohere') && (
           <div className="max-w-6xl mx-auto">
             {/* Search Box */}
             <div className="bg-white rounded-2xl shadow-xl p-8 mb-8">
@@ -299,7 +318,7 @@ export default function Home() {
                 <div className="space-y-4">
                   {searchResults.map((result, index) => (
                     <div
-                      key={result.cv.id}
+                      key={result.cv?.id || index}
                       className="bg-white rounded-xl shadow-lg p-6 hover:shadow-xl transition-shadow"
                     >
                       <div className="flex items-start justify-between mb-4">
@@ -309,7 +328,7 @@ export default function Home() {
                           </div>
                           <div className="flex-1">
                             <h3 className="text-lg font-semibold text-gray-900 mb-1">
-                              {result.cv.filename}
+                              {result.cv?.filename || 'Unknown'}
                             </h3>
                             <div className="flex items-center gap-4 text-sm text-gray-500">
                               <span>
@@ -317,13 +336,13 @@ export default function Home() {
                               </span>
                               <span>•</span>
                               <span>
-                                Uploaded: {new Date(result.cv.uploadedAt).toLocaleDateString()}
+                                Uploaded: {result.cv?.uploadedAt ? new Date(result.cv.uploadedAt).toLocaleDateString() : 'Unknown'}
                               </span>
                             </div>
                           </div>
                         </div>
                         <button
-                          onClick={() => handleDelete(result.cv.id)}
+                          onClick={() => result.cv?.id && handleDelete(result.cv.id)}
                           className="text-red-500 hover:text-red-700 p-2 hover:bg-red-50 rounded-lg transition-colors"
                         >
                           <Trash2 className="w-5 h-5" />
@@ -331,8 +350,8 @@ export default function Home() {
                       </div>
 
                       <div className="bg-gray-50 rounded-lg p-4 font-mono text-sm text-gray-700 max-h-40 overflow-y-auto">
-                        {result.cv.content.substring(0, 500)}
-                        {result.cv.content.length > 500 && '...'}
+                        {result.cv?.content?.substring(0, 500) || 'No content available'}
+                        {(result.cv?.content?.length || 0) > 500 && '...'}
                       </div>
 
                       <div className="mt-4">
